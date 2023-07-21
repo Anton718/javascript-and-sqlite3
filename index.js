@@ -197,7 +197,7 @@ async function getData() {
     loader.style.cursor = 'pointer'
     loader.addEventListener('click', () => {divCards.innerHTML = ''; getData()})
     const flasher = document.createElement('h3')
-    flasher.innerText = 'Backend database is OFF'
+    flasher.innerText = 'Backend database is DOWN'
     flasher.style.color = '#fff'
     loader.setAttribute("class", "loader")
     loader.style.margin = '100px auto'
