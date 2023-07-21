@@ -40,7 +40,7 @@ const cars = [
   "Maybach",
   "Mazda",
   "McLaren",
-  "Mercedes-Benz",
+  "Mercedes",
   "MG",
   "Mini",
   "Mitsubishi",
